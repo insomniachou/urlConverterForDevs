@@ -2,7 +2,7 @@
   "name": "url-converter-for-devs",
   "version": "1.0.0",
   "description": "A chrome extension to convert current url using the provided regex",
-  "main": "index.js",
+  "main": "popup.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
