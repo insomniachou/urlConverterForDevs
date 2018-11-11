@@ -1,0 +1,24 @@
+{
+  "name": "url-converter-for-devs",
+  "version": "1.0.0",
+  "description": "A chrome extension to convert current url using the provided regex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insomniachou/urlConverterForDevs.git"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "JavaScript"
+  ],
+  "author": "Yu Zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insomniachou/urlConverterForDevs/issues"
+  },
+  "homepage": "https://github.com/insomniachou/urlConverterForDevs#readme"
+}
